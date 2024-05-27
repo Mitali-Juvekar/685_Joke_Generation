@@ -1,2 +1,2 @@
 # 685_Joke_Generation
-CS685 Final project
+CS685 NLP Final project
